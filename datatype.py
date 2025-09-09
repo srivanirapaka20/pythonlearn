@@ -1,0 +1,13 @@
+print("hello")
+a=2
+print(a)
+b=3.5
+print(b,type(b))
+a=5
+b=7
+c=5>6
+print(c,type(c))
+a=12+3j
+print(a,type(a))
+a=None
+print(a,type(a))    
