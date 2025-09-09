@@ -1,0 +1,10 @@
+import math
+a=int(input("enter:"))
+x=int(input("enter:"))
+y=int(input("enter:"))
+print(math.sqrt(4))
+print(math.factorial(n))
+print(math.exp(7))
+print(math.pow(x,y))
+print(math.fabs(x))
+print(math.gcd(x,y))
